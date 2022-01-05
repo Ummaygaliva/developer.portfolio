@@ -1,0 +1,25 @@
+#h1{
+    color: blueviolet;
+}
+#h1p{
+    color:darkgreen;
+}
+#chaines{
+    color: red
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+section{
+    display:flex;
+}
+.link-button{
+    text-decoration:none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color:blue;
+    border- radious:5px
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat:no no-repeat 
